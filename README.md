@@ -43,15 +43,21 @@
   <p>Pop é música popular, acessível, com refrões grudentos. Beyoncé domina o gênero, misturando voz potente, coreografia e impacto global.</p>
 </div
 
-<img src="images.jpeg" alt="Nome do Artista">
-
 <div class="card">
   <h2>BTS – K-pop</h2>
   <div class="artist">
-<img src="bts.jpg" alt="BTS" width="200">
+<img src="images.jpeg" alt="BTS" width="200">
     <p>BTS – K-pop</p>
   </div>
   <p>Fenômeno global do K-pop, combina dança, performance e música pop coreana. BTS conquistou fãs em todo o mundo, influenciando a cultura pop moderna.</p>
 </div>
 
+<div class="card">
+  <h2>Zezé Di Camargo & Luciano – Sertanejo</h2>
+  <div class="artist">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Zez%C3%A9_Di_Camargo_e_Luciano.jpg" alt="Zezé Di Camargo & Luciano" style="width:100px; border-radius:50%; margin-right:15px;">
+    <p>Zezé Di Camargo & Luciano – Sertanejo</p>
+  </div>
+  <p>Popularizaram o sertanejo romântico com músicas sobre amor e vida rural. A dupla se tornou referência nacional e influenciou toda a música sertaneja.</p>
+</div>
     
