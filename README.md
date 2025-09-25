@@ -28,7 +28,7 @@
 <div class="card">
   <h2>Rock – Freddie Mercury</h2>
   <div class="artist">
-    <img src="images (1).jpeg" alt="BTS" width="200">>
+    <img src="images (1).jpeg" alt="BTS" width="200">
     <p>Freddie Mercury – Queen</p>
   </div>
   <p>Rock é sobre energia, atitude e emoção. Freddie Mercury personificava tudo isso com suas performances e composições icônicas.</p>
@@ -55,9 +55,22 @@
 <div class="card">
   <h2>Zezé Di Camargo & Luciano – Sertanejo</h2>
   <div class="artist">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Zez%C3%A9_Di_Camargo_e_Luciano.jpg" alt="Zezé Di Camargo & Luciano" style="width:100px; border-radius:50%; margin-right:15px;">
+   <img src="ab6761610000e5eb5542815361f8e1c9d4026efe.jpeg" alt="zeze di camargo e luciano">
     <p>Zezé Di Camargo & Luciano – Sertanejo</p>
   </div>
   <p>Popularizaram o sertanejo romântico com músicas sobre amor e vida rural. A dupla se tornou referência nacional e influenciou toda a música sertaneja.</p>
 </div>
-    
+
+<!-- Resumo sobre Música -->
+<div class="card" style="background:#e1f5fe; text-align:center;">
+  <h2 style="color:#01579b;">Resumo sobre Música</h2>
+  <p style="max-width:800px; margin:auto; font-size:1.1em;">
+    A música é uma forma de expressão universal que conecta pessoas, transmite emoções e reflete culturas e histórias. Cada estilo musical tem sua própria identidade e influencia a sociedade de maneiras diferentes, mostrando criatividade, diversidade e significado cultural. Ela não é só entretenimento, mas também memória, cultura e emoção, sendo essencial na vida humana.
+  </p>
+</div>
+
+  </section>
+
+  <footer>
+    <p>Feito por Railane | 2025🎵🎶</p>
+  </footer
