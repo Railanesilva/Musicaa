@@ -21,15 +21,24 @@
         <li><strong>Sertanejo:</strong> Estilo brasileiro popular no interior, letras sobre amor e vida rural. 
         <li><strong>K-pop:</strong> Pop coreano, dança sincronizada, visuais fortes e fãs dedicados. 
 
-    section>
-  <h1 style="text-align:center; color:#0d47a1;">Artistas</h1>
+    
+  <h1 style="text-align:center; color:#0d47a1;">Alguns Artistas</h1>
 
 
 <div class="card">
   <h2>Rock – Freddie Mercury</h2>
   <div class="artist">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Queen_Freddie_Mercury_1984_3.jpg" alt="Freddie Mercury" style="width:80px; border-radius:50%;">
+    <img src="images (1).jpeg" alt="BTS" width="200">>
     <p>Freddie Mercury – Queen</p>
   </div>
   <p>Rock é sobre energia, atitude e emoção. Freddie Mercury personificava tudo isso com suas performances e composições icônicas.</p>
+</div>
+
+<div class="card">
+  <h2>Pop – Beyoncé</h2>
+  <div class="artist">
+    <img src="images (2).jpeg" alt="Beyoncé" width="200">
+    <p>Beyoncé – Pop/R&B</p>
+  </div>
+  <p>Pop é música popular, acessível, com refrões grudentos. Beyoncé domina o gênero, misturando voz potente, coreografia e impacto global.</p>
 </div>
