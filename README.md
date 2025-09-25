@@ -41,10 +41,17 @@
     <p>Beyoncé – Pop/R&B</p>
   </div>
   <p>Pop é música popular, acessível, com refrões grudentos. Beyoncé domina o gênero, misturando voz potente, coreografia e impacto global.</p>
-</div>
+</div
 
-    <img src="images.jpeg" alt="BTS" width="200">
+<img src="images.jpeg" alt="Nome do Artista">
+
+<div class="card">
+  <h2>BTS – K-pop</h2>
+  <div class="artist">
+<img src="bts.jpg" alt="BTS" width="200">
     <p>BTS – K-pop</p>
   </div>
-  <p>Fenômeno global do K-pop, combina dança, performance e música pop coreana. BTS conquistou fãs em todo o mundo, influenciando a cultura pop moderna.
+  <p>Fenômeno global do K-pop, combina dança, performance e música pop coreana. BTS conquistou fãs em todo o mundo, influenciando a cultura pop moderna.</p>
+</div>
+
     
